@@ -112,7 +112,7 @@ const { ...hoursrestObj } = {
   ...Object.fromEntries(rest),
 };
 // Achieved by first spreading out the incoming iterators and using the rest operator to collapse everything back together
-console.log(hoursrestObj);
+console.table(hoursrestObj);
 // console.log(hoursrestObj);
 // console.log(...Object.entries(openingHours));
 
