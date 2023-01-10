@@ -82,3 +82,5 @@ console.log("------------------------");
 
 console.log("-----------T7 Last One!-------------");
 team1 < team2 && console.log("team 1 is likely to win");
+
+export { game };

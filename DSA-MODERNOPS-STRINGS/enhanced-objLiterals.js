@@ -18,7 +18,7 @@ const openingHours = {
   // third enhancment is we can compute property names now
   [weekdays[6]]: {},
 };
-console.log(openingHours);
+// console.log(openingHours);
 
 const rest = {
   name: "Pizzeria",
@@ -32,3 +32,4 @@ const rest = {
   },
 };
 rest.sayHi("Abdulfatah");
+export { openingHours };
