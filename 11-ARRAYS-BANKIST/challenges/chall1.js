@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const juliaData = [3, 5, 2, 12, 7];
 const kateData = [4, 1, 15, 8, 3];
 
